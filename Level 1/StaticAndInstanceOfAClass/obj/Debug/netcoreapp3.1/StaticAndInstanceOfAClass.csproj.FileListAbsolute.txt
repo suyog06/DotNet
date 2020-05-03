@@ -1,0 +1,13 @@
+C:\Users\Suyog\Desktop\DotNet\Level 1\StaticAndInstanceOfAClass\bin\Debug\netcoreapp3.1\StaticAndInstanceOfAClass.exe
+C:\Users\Suyog\Desktop\DotNet\Level 1\StaticAndInstanceOfAClass\bin\Debug\netcoreapp3.1\StaticAndInstanceOfAClass.deps.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\StaticAndInstanceOfAClass\bin\Debug\netcoreapp3.1\StaticAndInstanceOfAClass.runtimeconfig.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\StaticAndInstanceOfAClass\bin\Debug\netcoreapp3.1\StaticAndInstanceOfAClass.runtimeconfig.dev.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\StaticAndInstanceOfAClass\bin\Debug\netcoreapp3.1\StaticAndInstanceOfAClass.dll
+C:\Users\Suyog\Desktop\DotNet\Level 1\StaticAndInstanceOfAClass\bin\Debug\netcoreapp3.1\StaticAndInstanceOfAClass.pdb
+C:\Users\Suyog\Desktop\DotNet\Level 1\StaticAndInstanceOfAClass\obj\Debug\netcoreapp3.1\StaticAndInstanceOfAClass.csprojAssemblyReference.cache
+C:\Users\Suyog\Desktop\DotNet\Level 1\StaticAndInstanceOfAClass\obj\Debug\netcoreapp3.1\StaticAndInstanceOfAClass.csproj.CoreCompileInputs.cache
+C:\Users\Suyog\Desktop\DotNet\Level 1\StaticAndInstanceOfAClass\obj\Debug\netcoreapp3.1\StaticAndInstanceOfAClass.AssemblyInfoInputs.cache
+C:\Users\Suyog\Desktop\DotNet\Level 1\StaticAndInstanceOfAClass\obj\Debug\netcoreapp3.1\StaticAndInstanceOfAClass.AssemblyInfo.cs
+C:\Users\Suyog\Desktop\DotNet\Level 1\StaticAndInstanceOfAClass\obj\Debug\netcoreapp3.1\StaticAndInstanceOfAClass.dll
+C:\Users\Suyog\Desktop\DotNet\Level 1\StaticAndInstanceOfAClass\obj\Debug\netcoreapp3.1\StaticAndInstanceOfAClass.pdb
+C:\Users\Suyog\Desktop\DotNet\Level 1\StaticAndInstanceOfAClass\obj\Debug\netcoreapp3.1\StaticAndInstanceOfAClass.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Suyog\Desktop\DotNet\Level 1\Class_Inheritance_using_Interfaces\bin\Debug\netcoreapp3.1\Class_Inheritance_using_Interfaces.exe
+C:\Users\Suyog\Desktop\DotNet\Level 1\Class_Inheritance_using_Interfaces\bin\Debug\netcoreapp3.1\Class_Inheritance_using_Interfaces.deps.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\Class_Inheritance_using_Interfaces\bin\Debug\netcoreapp3.1\Class_Inheritance_using_Interfaces.runtimeconfig.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\Class_Inheritance_using_Interfaces\bin\Debug\netcoreapp3.1\Class_Inheritance_using_Interfaces.runtimeconfig.dev.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\Class_Inheritance_using_Interfaces\bin\Debug\netcoreapp3.1\Class_Inheritance_using_Interfaces.dll
+C:\Users\Suyog\Desktop\DotNet\Level 1\Class_Inheritance_using_Interfaces\bin\Debug\netcoreapp3.1\Class_Inheritance_using_Interfaces.pdb
+C:\Users\Suyog\Desktop\DotNet\Level 1\Class_Inheritance_using_Interfaces\obj\Debug\netcoreapp3.1\Class_Inheritance_using_Interfaces.csprojAssemblyReference.cache
+C:\Users\Suyog\Desktop\DotNet\Level 1\Class_Inheritance_using_Interfaces\obj\Debug\netcoreapp3.1\Class_Inheritance_using_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Suyog\Desktop\DotNet\Level 1\Class_Inheritance_using_Interfaces\obj\Debug\netcoreapp3.1\Class_Inheritance_using_Interfaces.AssemblyInfoInputs.cache
+C:\Users\Suyog\Desktop\DotNet\Level 1\Class_Inheritance_using_Interfaces\obj\Debug\netcoreapp3.1\Class_Inheritance_using_Interfaces.AssemblyInfo.cs
+C:\Users\Suyog\Desktop\DotNet\Level 1\Class_Inheritance_using_Interfaces\obj\Debug\netcoreapp3.1\Class_Inheritance_using_Interfaces.dll
+C:\Users\Suyog\Desktop\DotNet\Level 1\Class_Inheritance_using_Interfaces\obj\Debug\netcoreapp3.1\Class_Inheritance_using_Interfaces.pdb
+C:\Users\Suyog\Desktop\DotNet\Level 1\Class_Inheritance_using_Interfaces\obj\Debug\netcoreapp3.1\Class_Inheritance_using_Interfaces.genruntimeconfig.cache

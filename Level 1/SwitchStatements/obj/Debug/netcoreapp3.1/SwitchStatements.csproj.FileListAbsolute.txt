@@ -1,0 +1,12 @@
+C:\Users\Suyog\Desktop\DotNet\Level 1\SwitchStatements\obj\Debug\netcoreapp3.1\SwitchStatements.csproj.CoreCompileInputs.cache
+C:\Users\Suyog\Desktop\DotNet\Level 1\SwitchStatements\obj\Debug\netcoreapp3.1\SwitchStatements.AssemblyInfoInputs.cache
+C:\Users\Suyog\Desktop\DotNet\Level 1\SwitchStatements\obj\Debug\netcoreapp3.1\SwitchStatements.AssemblyInfo.cs
+C:\Users\Suyog\Desktop\DotNet\Level 1\SwitchStatements\bin\Debug\netcoreapp3.1\SwitchStatements.exe
+C:\Users\Suyog\Desktop\DotNet\Level 1\SwitchStatements\bin\Debug\netcoreapp3.1\SwitchStatements.deps.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\SwitchStatements\bin\Debug\netcoreapp3.1\SwitchStatements.runtimeconfig.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\SwitchStatements\bin\Debug\netcoreapp3.1\SwitchStatements.runtimeconfig.dev.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\SwitchStatements\bin\Debug\netcoreapp3.1\SwitchStatements.dll
+C:\Users\Suyog\Desktop\DotNet\Level 1\SwitchStatements\bin\Debug\netcoreapp3.1\SwitchStatements.pdb
+C:\Users\Suyog\Desktop\DotNet\Level 1\SwitchStatements\obj\Debug\netcoreapp3.1\SwitchStatements.dll
+C:\Users\Suyog\Desktop\DotNet\Level 1\SwitchStatements\obj\Debug\netcoreapp3.1\SwitchStatements.pdb
+C:\Users\Suyog\Desktop\DotNet\Level 1\SwitchStatements\obj\Debug\netcoreapp3.1\SwitchStatements.genruntimeconfig.cache

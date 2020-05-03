@@ -1,0 +1,12 @@
+C:\Users\Suyog\Desktop\DotNet\Operators\bin\Debug\netcoreapp3.1\Operators.exe
+C:\Users\Suyog\Desktop\DotNet\Operators\bin\Debug\netcoreapp3.1\Operators.deps.json
+C:\Users\Suyog\Desktop\DotNet\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.json
+C:\Users\Suyog\Desktop\DotNet\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.dev.json
+C:\Users\Suyog\Desktop\DotNet\Operators\bin\Debug\netcoreapp3.1\Operators.dll
+C:\Users\Suyog\Desktop\DotNet\Operators\bin\Debug\netcoreapp3.1\Operators.pdb
+C:\Users\Suyog\Desktop\DotNet\Operators\obj\Debug\netcoreapp3.1\Operators.csproj.CoreCompileInputs.cache
+C:\Users\Suyog\Desktop\DotNet\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfoInputs.cache
+C:\Users\Suyog\Desktop\DotNet\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfo.cs
+C:\Users\Suyog\Desktop\DotNet\Operators\obj\Debug\netcoreapp3.1\Operators.dll
+C:\Users\Suyog\Desktop\DotNet\Operators\obj\Debug\netcoreapp3.1\Operators.pdb
+C:\Users\Suyog\Desktop\DotNet\Operators\obj\Debug\netcoreapp3.1\Operators.genruntimeconfig.cache

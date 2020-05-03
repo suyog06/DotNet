@@ -1,0 +1,13 @@
+C:\Users\Suyog\Desktop\DotNet\Level 1\Abstact_Class\bin\Debug\netcoreapp3.1\Abstact_Class.exe
+C:\Users\Suyog\Desktop\DotNet\Level 1\Abstact_Class\bin\Debug\netcoreapp3.1\Abstact_Class.deps.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\Abstact_Class\bin\Debug\netcoreapp3.1\Abstact_Class.runtimeconfig.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\Abstact_Class\bin\Debug\netcoreapp3.1\Abstact_Class.runtimeconfig.dev.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\Abstact_Class\bin\Debug\netcoreapp3.1\Abstact_Class.dll
+C:\Users\Suyog\Desktop\DotNet\Level 1\Abstact_Class\bin\Debug\netcoreapp3.1\Abstact_Class.pdb
+C:\Users\Suyog\Desktop\DotNet\Level 1\Abstact_Class\obj\Debug\netcoreapp3.1\Abstact_Class.csprojAssemblyReference.cache
+C:\Users\Suyog\Desktop\DotNet\Level 1\Abstact_Class\obj\Debug\netcoreapp3.1\Abstact_Class.csproj.CoreCompileInputs.cache
+C:\Users\Suyog\Desktop\DotNet\Level 1\Abstact_Class\obj\Debug\netcoreapp3.1\Abstact_Class.AssemblyInfoInputs.cache
+C:\Users\Suyog\Desktop\DotNet\Level 1\Abstact_Class\obj\Debug\netcoreapp3.1\Abstact_Class.AssemblyInfo.cs
+C:\Users\Suyog\Desktop\DotNet\Level 1\Abstact_Class\obj\Debug\netcoreapp3.1\Abstact_Class.dll
+C:\Users\Suyog\Desktop\DotNet\Level 1\Abstact_Class\obj\Debug\netcoreapp3.1\Abstact_Class.pdb
+C:\Users\Suyog\Desktop\DotNet\Level 1\Abstact_Class\obj\Debug\netcoreapp3.1\Abstact_Class.genruntimeconfig.cache

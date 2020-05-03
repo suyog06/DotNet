@@ -1,0 +1,13 @@
+C:\Users\Suyog\Desktop\DotNet\Level1\DataTypeConversions\bin\Debug\netcoreapp3.1\DataTypeConversions.exe
+C:\Users\Suyog\Desktop\DotNet\Level1\DataTypeConversions\bin\Debug\netcoreapp3.1\DataTypeConversions.deps.json
+C:\Users\Suyog\Desktop\DotNet\Level1\DataTypeConversions\bin\Debug\netcoreapp3.1\DataTypeConversions.runtimeconfig.json
+C:\Users\Suyog\Desktop\DotNet\Level1\DataTypeConversions\bin\Debug\netcoreapp3.1\DataTypeConversions.runtimeconfig.dev.json
+C:\Users\Suyog\Desktop\DotNet\Level1\DataTypeConversions\bin\Debug\netcoreapp3.1\DataTypeConversions.dll
+C:\Users\Suyog\Desktop\DotNet\Level1\DataTypeConversions\bin\Debug\netcoreapp3.1\DataTypeConversions.pdb
+C:\Users\Suyog\Desktop\DotNet\Level1\DataTypeConversions\obj\Debug\netcoreapp3.1\DataTypeConversions.csprojAssemblyReference.cache
+C:\Users\Suyog\Desktop\DotNet\Level1\DataTypeConversions\obj\Debug\netcoreapp3.1\DataTypeConversions.csproj.CoreCompileInputs.cache
+C:\Users\Suyog\Desktop\DotNet\Level1\DataTypeConversions\obj\Debug\netcoreapp3.1\DataTypeConversions.AssemblyInfoInputs.cache
+C:\Users\Suyog\Desktop\DotNet\Level1\DataTypeConversions\obj\Debug\netcoreapp3.1\DataTypeConversions.AssemblyInfo.cs
+C:\Users\Suyog\Desktop\DotNet\Level1\DataTypeConversions\obj\Debug\netcoreapp3.1\DataTypeConversions.dll
+C:\Users\Suyog\Desktop\DotNet\Level1\DataTypeConversions\obj\Debug\netcoreapp3.1\DataTypeConversions.pdb
+C:\Users\Suyog\Desktop\DotNet\Level1\DataTypeConversions\obj\Debug\netcoreapp3.1\DataTypeConversions.genruntimeconfig.cache

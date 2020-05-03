@@ -1,0 +1,12 @@
+C:\Users\Suyog\Desktop\DotNet\Level 1\HidingVSOverriding\obj\Debug\netcoreapp3.1\HidingVSOverriding.csproj.CoreCompileInputs.cache
+C:\Users\Suyog\Desktop\DotNet\Level 1\HidingVSOverriding\obj\Debug\netcoreapp3.1\HidingVSOverriding.AssemblyInfoInputs.cache
+C:\Users\Suyog\Desktop\DotNet\Level 1\HidingVSOverriding\obj\Debug\netcoreapp3.1\HidingVSOverriding.AssemblyInfo.cs
+C:\Users\Suyog\Desktop\DotNet\Level 1\HidingVSOverriding\bin\Debug\netcoreapp3.1\HidingVSOverriding.exe
+C:\Users\Suyog\Desktop\DotNet\Level 1\HidingVSOverriding\bin\Debug\netcoreapp3.1\HidingVSOverriding.deps.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\HidingVSOverriding\bin\Debug\netcoreapp3.1\HidingVSOverriding.runtimeconfig.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\HidingVSOverriding\bin\Debug\netcoreapp3.1\HidingVSOverriding.runtimeconfig.dev.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\HidingVSOverriding\bin\Debug\netcoreapp3.1\HidingVSOverriding.dll
+C:\Users\Suyog\Desktop\DotNet\Level 1\HidingVSOverriding\bin\Debug\netcoreapp3.1\HidingVSOverriding.pdb
+C:\Users\Suyog\Desktop\DotNet\Level 1\HidingVSOverriding\obj\Debug\netcoreapp3.1\HidingVSOverriding.dll
+C:\Users\Suyog\Desktop\DotNet\Level 1\HidingVSOverriding\obj\Debug\netcoreapp3.1\HidingVSOverriding.pdb
+C:\Users\Suyog\Desktop\DotNet\Level 1\HidingVSOverriding\obj\Debug\netcoreapp3.1\HidingVSOverriding.genruntimeconfig.cache

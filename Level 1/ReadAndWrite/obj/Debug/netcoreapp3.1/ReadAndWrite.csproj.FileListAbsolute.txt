@@ -1,0 +1,13 @@
+C:\Users\Suyog\Desktop\DotNet\ReadAndWrite\bin\Debug\netcoreapp3.1\ReadAndWrite.exe
+C:\Users\Suyog\Desktop\DotNet\ReadAndWrite\bin\Debug\netcoreapp3.1\ReadAndWrite.deps.json
+C:\Users\Suyog\Desktop\DotNet\ReadAndWrite\bin\Debug\netcoreapp3.1\ReadAndWrite.runtimeconfig.json
+C:\Users\Suyog\Desktop\DotNet\ReadAndWrite\bin\Debug\netcoreapp3.1\ReadAndWrite.runtimeconfig.dev.json
+C:\Users\Suyog\Desktop\DotNet\ReadAndWrite\bin\Debug\netcoreapp3.1\ReadAndWrite.dll
+C:\Users\Suyog\Desktop\DotNet\ReadAndWrite\bin\Debug\netcoreapp3.1\ReadAndWrite.pdb
+C:\Users\Suyog\Desktop\DotNet\ReadAndWrite\obj\Debug\netcoreapp3.1\ReadAndWrite.csprojAssemblyReference.cache
+C:\Users\Suyog\Desktop\DotNet\ReadAndWrite\obj\Debug\netcoreapp3.1\ReadAndWrite.csproj.CoreCompileInputs.cache
+C:\Users\Suyog\Desktop\DotNet\ReadAndWrite\obj\Debug\netcoreapp3.1\ReadAndWrite.AssemblyInfoInputs.cache
+C:\Users\Suyog\Desktop\DotNet\ReadAndWrite\obj\Debug\netcoreapp3.1\ReadAndWrite.AssemblyInfo.cs
+C:\Users\Suyog\Desktop\DotNet\ReadAndWrite\obj\Debug\netcoreapp3.1\ReadAndWrite.dll
+C:\Users\Suyog\Desktop\DotNet\ReadAndWrite\obj\Debug\netcoreapp3.1\ReadAndWrite.pdb
+C:\Users\Suyog\Desktop\DotNet\ReadAndWrite\obj\Debug\netcoreapp3.1\ReadAndWrite.genruntimeconfig.cache

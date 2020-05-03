@@ -1,0 +1,13 @@
+C:\Users\Suyog\source\repos\Do_WhileLoop\obj\Debug\netcoreapp3.1\Do_WhileLoop.csprojAssemblyReference.cache
+C:\Users\Suyog\source\repos\Do_WhileLoop\obj\Debug\netcoreapp3.1\Do_WhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\Suyog\source\repos\Do_WhileLoop\obj\Debug\netcoreapp3.1\Do_WhileLoop.AssemblyInfoInputs.cache
+C:\Users\Suyog\source\repos\Do_WhileLoop\obj\Debug\netcoreapp3.1\Do_WhileLoop.AssemblyInfo.cs
+C:\Users\Suyog\source\repos\Do_WhileLoop\bin\Debug\netcoreapp3.1\Do_WhileLoop.exe
+C:\Users\Suyog\source\repos\Do_WhileLoop\bin\Debug\netcoreapp3.1\Do_WhileLoop.deps.json
+C:\Users\Suyog\source\repos\Do_WhileLoop\bin\Debug\netcoreapp3.1\Do_WhileLoop.runtimeconfig.json
+C:\Users\Suyog\source\repos\Do_WhileLoop\bin\Debug\netcoreapp3.1\Do_WhileLoop.runtimeconfig.dev.json
+C:\Users\Suyog\source\repos\Do_WhileLoop\bin\Debug\netcoreapp3.1\Do_WhileLoop.dll
+C:\Users\Suyog\source\repos\Do_WhileLoop\bin\Debug\netcoreapp3.1\Do_WhileLoop.pdb
+C:\Users\Suyog\source\repos\Do_WhileLoop\obj\Debug\netcoreapp3.1\Do_WhileLoop.dll
+C:\Users\Suyog\source\repos\Do_WhileLoop\obj\Debug\netcoreapp3.1\Do_WhileLoop.pdb
+C:\Users\Suyog\source\repos\Do_WhileLoop\obj\Debug\netcoreapp3.1\Do_WhileLoop.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Suyog\Desktop\DotNet\Built-in datatypes\bin\Debug\netcoreapp3.1\Built-in datatypes.exe
+C:\Users\Suyog\Desktop\DotNet\Built-in datatypes\bin\Debug\netcoreapp3.1\Built-in datatypes.deps.json
+C:\Users\Suyog\Desktop\DotNet\Built-in datatypes\bin\Debug\netcoreapp3.1\Built-in datatypes.runtimeconfig.json
+C:\Users\Suyog\Desktop\DotNet\Built-in datatypes\bin\Debug\netcoreapp3.1\Built-in datatypes.runtimeconfig.dev.json
+C:\Users\Suyog\Desktop\DotNet\Built-in datatypes\bin\Debug\netcoreapp3.1\Built-in datatypes.dll
+C:\Users\Suyog\Desktop\DotNet\Built-in datatypes\bin\Debug\netcoreapp3.1\Built-in datatypes.pdb
+C:\Users\Suyog\Desktop\DotNet\Built-in datatypes\obj\Debug\netcoreapp3.1\Built-in datatypes.csprojAssemblyReference.cache
+C:\Users\Suyog\Desktop\DotNet\Built-in datatypes\obj\Debug\netcoreapp3.1\Built-in datatypes.csproj.CoreCompileInputs.cache
+C:\Users\Suyog\Desktop\DotNet\Built-in datatypes\obj\Debug\netcoreapp3.1\Built-in datatypes.AssemblyInfoInputs.cache
+C:\Users\Suyog\Desktop\DotNet\Built-in datatypes\obj\Debug\netcoreapp3.1\Built-in datatypes.AssemblyInfo.cs
+C:\Users\Suyog\Desktop\DotNet\Built-in datatypes\obj\Debug\netcoreapp3.1\Built-in datatypes.dll
+C:\Users\Suyog\Desktop\DotNet\Built-in datatypes\obj\Debug\netcoreapp3.1\Built-in datatypes.pdb
+C:\Users\Suyog\Desktop\DotNet\Built-in datatypes\obj\Debug\netcoreapp3.1\Built-in datatypes.genruntimeconfig.cache
