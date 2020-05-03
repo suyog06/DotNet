@@ -1,0 +1,4 @@
+C:\Users\Suyog\Desktop\ASP.net\35\obj\Debug\35.csprojAssemblyReference.cache
+C:\Users\Suyog\Desktop\ASP.net\35\obj\Debug\35.csproj.CoreCompileInputs.cache
+C:\Users\Suyog\Desktop\ASP.net\35\obj\Debug\34.dll
+C:\Users\Suyog\Desktop\ASP.net\35\obj\Debug\34.pdb

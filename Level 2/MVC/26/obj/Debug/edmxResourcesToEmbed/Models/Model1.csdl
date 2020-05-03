@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Sample1Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Department">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Employee1" Relationship="Self.FK__tblEmploy__Depar__2B0A656D" FromRole="tblDepartment" ToRole="tblEmployee1" />
+  </EntityType>
+  <EntityType Name="Employee1">
+    <Key>
+      <PropertyRef Name="EmployeeId" />
+    </Key>
+    <Property Name="EmployeeId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Gender" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="City" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="DepartmentId" Type="Int32" />
+    <NavigationProperty Name="Department" Relationship="Self.FK__tblEmploy__Depar__2B0A656D" FromRole="tblEmployee1" ToRole="tblDepartment" />
+  </EntityType>
+  <Association Name="FK__tblEmploy__Depar__2B0A656D">
+    <End Role="tblDepartment" Type="Sample1Model.Department" Multiplicity="0..1" />
+    <End Role="tblEmployee1" Type="Sample1Model.Employee1" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="tblDepartment">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="tblEmployee1">
+        <PropertyRef Name="DepartmentId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="EmployeeContext" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Departments" EntityType="Sample1Model.Department" />
+    <EntitySet Name="Employee1" EntityType="Sample1Model.Employee1" />
+    <AssociationSet Name="FK__tblEmploy__Depar__2B0A656D" Association="Self.FK__tblEmploy__Depar__2B0A656D">
+      <End Role="tblDepartment" EntitySet="Departments" />
+      <End Role="tblEmployee1" EntitySet="Employee1" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
