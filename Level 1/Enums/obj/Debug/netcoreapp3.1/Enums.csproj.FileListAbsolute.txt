@@ -1,0 +1,26 @@
+C:\Users\Suyog\Desktop\DotNet\Level1\Enums\bin\Debug\netcoreapp3.1\Enums.exe
+C:\Users\Suyog\Desktop\DotNet\Level1\Enums\bin\Debug\netcoreapp3.1\Enums.deps.json
+C:\Users\Suyog\Desktop\DotNet\Level1\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.json
+C:\Users\Suyog\Desktop\DotNet\Level1\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.dev.json
+C:\Users\Suyog\Desktop\DotNet\Level1\Enums\bin\Debug\netcoreapp3.1\Enums.dll
+C:\Users\Suyog\Desktop\DotNet\Level1\Enums\bin\Debug\netcoreapp3.1\Enums.pdb
+C:\Users\Suyog\Desktop\DotNet\Level1\Enums\obj\Debug\netcoreapp3.1\Enums.csprojAssemblyReference.cache
+C:\Users\Suyog\Desktop\DotNet\Level1\Enums\obj\Debug\netcoreapp3.1\Enums.csproj.CoreCompileInputs.cache
+C:\Users\Suyog\Desktop\DotNet\Level1\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfoInputs.cache
+C:\Users\Suyog\Desktop\DotNet\Level1\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfo.cs
+C:\Users\Suyog\Desktop\DotNet\Level1\Enums\obj\Debug\netcoreapp3.1\Enums.dll
+C:\Users\Suyog\Desktop\DotNet\Level1\Enums\obj\Debug\netcoreapp3.1\Enums.pdb
+C:\Users\Suyog\Desktop\DotNet\Level1\Enums\obj\Debug\netcoreapp3.1\Enums.genruntimeconfig.cache
+C:\Users\Suyog\Desktop\DotNet\Level 1\Enums\bin\Debug\netcoreapp3.1\Enums.exe
+C:\Users\Suyog\Desktop\DotNet\Level 1\Enums\bin\Debug\netcoreapp3.1\Enums.deps.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\Enums\bin\Debug\netcoreapp3.1\Enums.runtimeconfig.dev.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\Enums\bin\Debug\netcoreapp3.1\Enums.dll
+C:\Users\Suyog\Desktop\DotNet\Level 1\Enums\bin\Debug\netcoreapp3.1\Enums.pdb
+C:\Users\Suyog\Desktop\DotNet\Level 1\Enums\obj\Debug\netcoreapp3.1\Enums.csprojAssemblyReference.cache
+C:\Users\Suyog\Desktop\DotNet\Level 1\Enums\obj\Debug\netcoreapp3.1\Enums.csproj.CoreCompileInputs.cache
+C:\Users\Suyog\Desktop\DotNet\Level 1\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfoInputs.cache
+C:\Users\Suyog\Desktop\DotNet\Level 1\Enums\obj\Debug\netcoreapp3.1\Enums.AssemblyInfo.cs
+C:\Users\Suyog\Desktop\DotNet\Level 1\Enums\obj\Debug\netcoreapp3.1\Enums.dll
+C:\Users\Suyog\Desktop\DotNet\Level 1\Enums\obj\Debug\netcoreapp3.1\Enums.pdb
+C:\Users\Suyog\Desktop\DotNet\Level 1\Enums\obj\Debug\netcoreapp3.1\Enums.genruntimeconfig.cache

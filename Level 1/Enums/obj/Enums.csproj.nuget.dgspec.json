@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Suyog\\Desktop\\DotNet\\Level 1\\Interfaces\\Interfaces.csproj": {}
+    "C:\\Users\\Suyog\\Desktop\\DotNet\\Level 1\\Enums\\Enums.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Suyog\\Desktop\\DotNet\\Level 1\\Interfaces\\Interfaces.csproj": {
+    "C:\\Users\\Suyog\\Desktop\\DotNet\\Level 1\\Enums\\Enums.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Suyog\\Desktop\\DotNet\\Level 1\\Interfaces\\Interfaces.csproj",
-        "projectName": "Interfaces",
-        "projectPath": "C:\\Users\\Suyog\\Desktop\\DotNet\\Level 1\\Interfaces\\Interfaces.csproj",
+        "projectUniqueName": "C:\\Users\\Suyog\\Desktop\\DotNet\\Level 1\\Enums\\Enums.csproj",
+        "projectName": "Enums",
+        "projectPath": "C:\\Users\\Suyog\\Desktop\\DotNet\\Level 1\\Enums\\Enums.csproj",
         "packagesPath": "C:\\Users\\Suyog\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Suyog\\Desktop\\DotNet\\Level 1\\Interfaces\\obj\\",
+        "outputPath": "C:\\Users\\Suyog\\Desktop\\DotNet\\Level 1\\Enums\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
