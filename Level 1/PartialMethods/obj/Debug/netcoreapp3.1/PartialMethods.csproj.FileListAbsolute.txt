@@ -1,0 +1,13 @@
+C:\Users\Suyog\Desktop\DotNet\Level 1\PartialMethods\bin\Debug\netcoreapp3.1\PartialMethods.exe
+C:\Users\Suyog\Desktop\DotNet\Level 1\PartialMethods\bin\Debug\netcoreapp3.1\PartialMethods.deps.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\PartialMethods\bin\Debug\netcoreapp3.1\PartialMethods.runtimeconfig.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\PartialMethods\bin\Debug\netcoreapp3.1\PartialMethods.runtimeconfig.dev.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\PartialMethods\bin\Debug\netcoreapp3.1\PartialMethods.dll
+C:\Users\Suyog\Desktop\DotNet\Level 1\PartialMethods\bin\Debug\netcoreapp3.1\PartialMethods.pdb
+C:\Users\Suyog\Desktop\DotNet\Level 1\PartialMethods\obj\Debug\netcoreapp3.1\PartialMethods.csprojAssemblyReference.cache
+C:\Users\Suyog\Desktop\DotNet\Level 1\PartialMethods\obj\Debug\netcoreapp3.1\PartialMethods.csproj.CoreCompileInputs.cache
+C:\Users\Suyog\Desktop\DotNet\Level 1\PartialMethods\obj\Debug\netcoreapp3.1\PartialMethods.AssemblyInfoInputs.cache
+C:\Users\Suyog\Desktop\DotNet\Level 1\PartialMethods\obj\Debug\netcoreapp3.1\PartialMethods.AssemblyInfo.cs
+C:\Users\Suyog\Desktop\DotNet\Level 1\PartialMethods\obj\Debug\netcoreapp3.1\PartialMethods.dll
+C:\Users\Suyog\Desktop\DotNet\Level 1\PartialMethods\obj\Debug\netcoreapp3.1\PartialMethods.pdb
+C:\Users\Suyog\Desktop\DotNet\Level 1\PartialMethods\obj\Debug\netcoreapp3.1\PartialMethods.genruntimeconfig.cache
