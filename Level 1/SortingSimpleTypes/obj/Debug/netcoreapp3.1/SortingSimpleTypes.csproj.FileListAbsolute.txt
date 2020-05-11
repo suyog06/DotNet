@@ -1,0 +1,13 @@
+C:\Users\Suyog\Desktop\DotNet\Level 1\SortingSimpleTypes\bin\Debug\netcoreapp3.1\SortingSimpleTypes.exe
+C:\Users\Suyog\Desktop\DotNet\Level 1\SortingSimpleTypes\bin\Debug\netcoreapp3.1\SortingSimpleTypes.deps.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\SortingSimpleTypes\bin\Debug\netcoreapp3.1\SortingSimpleTypes.runtimeconfig.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\SortingSimpleTypes\bin\Debug\netcoreapp3.1\SortingSimpleTypes.runtimeconfig.dev.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\SortingSimpleTypes\bin\Debug\netcoreapp3.1\SortingSimpleTypes.dll
+C:\Users\Suyog\Desktop\DotNet\Level 1\SortingSimpleTypes\bin\Debug\netcoreapp3.1\SortingSimpleTypes.pdb
+C:\Users\Suyog\Desktop\DotNet\Level 1\SortingSimpleTypes\obj\Debug\netcoreapp3.1\SortingSimpleTypes.csprojAssemblyReference.cache
+C:\Users\Suyog\Desktop\DotNet\Level 1\SortingSimpleTypes\obj\Debug\netcoreapp3.1\SortingSimpleTypes.csproj.CoreCompileInputs.cache
+C:\Users\Suyog\Desktop\DotNet\Level 1\SortingSimpleTypes\obj\Debug\netcoreapp3.1\SortingSimpleTypes.AssemblyInfoInputs.cache
+C:\Users\Suyog\Desktop\DotNet\Level 1\SortingSimpleTypes\obj\Debug\netcoreapp3.1\SortingSimpleTypes.AssemblyInfo.cs
+C:\Users\Suyog\Desktop\DotNet\Level 1\SortingSimpleTypes\obj\Debug\netcoreapp3.1\SortingSimpleTypes.dll
+C:\Users\Suyog\Desktop\DotNet\Level 1\SortingSimpleTypes\obj\Debug\netcoreapp3.1\SortingSimpleTypes.pdb
+C:\Users\Suyog\Desktop\DotNet\Level 1\SortingSimpleTypes\obj\Debug\netcoreapp3.1\SortingSimpleTypes.genruntimeconfig.cache

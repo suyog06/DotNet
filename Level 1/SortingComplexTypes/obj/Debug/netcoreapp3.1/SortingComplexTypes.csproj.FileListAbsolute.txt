@@ -1,0 +1,12 @@
+C:\Users\Suyog\Desktop\DotNet\Level 1\SortingComplexTypes\bin\Debug\netcoreapp3.1\SortingComplexTypes.exe
+C:\Users\Suyog\Desktop\DotNet\Level 1\SortingComplexTypes\bin\Debug\netcoreapp3.1\SortingComplexTypes.deps.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\SortingComplexTypes\bin\Debug\netcoreapp3.1\SortingComplexTypes.runtimeconfig.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\SortingComplexTypes\bin\Debug\netcoreapp3.1\SortingComplexTypes.runtimeconfig.dev.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\SortingComplexTypes\bin\Debug\netcoreapp3.1\SortingComplexTypes.dll
+C:\Users\Suyog\Desktop\DotNet\Level 1\SortingComplexTypes\bin\Debug\netcoreapp3.1\SortingComplexTypes.pdb
+C:\Users\Suyog\Desktop\DotNet\Level 1\SortingComplexTypes\obj\Debug\netcoreapp3.1\SortingComplexTypes.csproj.CoreCompileInputs.cache
+C:\Users\Suyog\Desktop\DotNet\Level 1\SortingComplexTypes\obj\Debug\netcoreapp3.1\SortingComplexTypes.AssemblyInfoInputs.cache
+C:\Users\Suyog\Desktop\DotNet\Level 1\SortingComplexTypes\obj\Debug\netcoreapp3.1\SortingComplexTypes.AssemblyInfo.cs
+C:\Users\Suyog\Desktop\DotNet\Level 1\SortingComplexTypes\obj\Debug\netcoreapp3.1\SortingComplexTypes.dll
+C:\Users\Suyog\Desktop\DotNet\Level 1\SortingComplexTypes\obj\Debug\netcoreapp3.1\SortingComplexTypes.pdb
+C:\Users\Suyog\Desktop\DotNet\Level 1\SortingComplexTypes\obj\Debug\netcoreapp3.1\SortingComplexTypes.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\Suyog\Desktop\DotNet\Level 1\ListMethods\bin\Debug\netcoreapp3.1\ListMethods.exe
+C:\Users\Suyog\Desktop\DotNet\Level 1\ListMethods\bin\Debug\netcoreapp3.1\ListMethods.deps.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\ListMethods\bin\Debug\netcoreapp3.1\ListMethods.runtimeconfig.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\ListMethods\bin\Debug\netcoreapp3.1\ListMethods.runtimeconfig.dev.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\ListMethods\bin\Debug\netcoreapp3.1\ListMethods.dll
+C:\Users\Suyog\Desktop\DotNet\Level 1\ListMethods\bin\Debug\netcoreapp3.1\ListMethods.pdb
+C:\Users\Suyog\Desktop\DotNet\Level 1\ListMethods\obj\Debug\netcoreapp3.1\ListMethods.csproj.CoreCompileInputs.cache
+C:\Users\Suyog\Desktop\DotNet\Level 1\ListMethods\obj\Debug\netcoreapp3.1\ListMethods.AssemblyInfoInputs.cache
+C:\Users\Suyog\Desktop\DotNet\Level 1\ListMethods\obj\Debug\netcoreapp3.1\ListMethods.AssemblyInfo.cs
+C:\Users\Suyog\Desktop\DotNet\Level 1\ListMethods\obj\Debug\netcoreapp3.1\ListMethods.dll
+C:\Users\Suyog\Desktop\DotNet\Level 1\ListMethods\obj\Debug\netcoreapp3.1\ListMethods.pdb
+C:\Users\Suyog\Desktop\DotNet\Level 1\ListMethods\obj\Debug\netcoreapp3.1\ListMethods.genruntimeconfig.cache

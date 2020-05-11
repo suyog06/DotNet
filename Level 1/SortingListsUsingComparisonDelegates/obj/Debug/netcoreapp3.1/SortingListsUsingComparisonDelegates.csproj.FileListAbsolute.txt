@@ -1,0 +1,13 @@
+C:\Users\Suyog\Desktop\DotNet\Level 1\SortingListsUsingComparisonDelegates\bin\Debug\netcoreapp3.1\SortingListsUsingComparisonDelegates.exe
+C:\Users\Suyog\Desktop\DotNet\Level 1\SortingListsUsingComparisonDelegates\bin\Debug\netcoreapp3.1\SortingListsUsingComparisonDelegates.deps.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\SortingListsUsingComparisonDelegates\bin\Debug\netcoreapp3.1\SortingListsUsingComparisonDelegates.runtimeconfig.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\SortingListsUsingComparisonDelegates\bin\Debug\netcoreapp3.1\SortingListsUsingComparisonDelegates.runtimeconfig.dev.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\SortingListsUsingComparisonDelegates\bin\Debug\netcoreapp3.1\SortingListsUsingComparisonDelegates.dll
+C:\Users\Suyog\Desktop\DotNet\Level 1\SortingListsUsingComparisonDelegates\bin\Debug\netcoreapp3.1\SortingListsUsingComparisonDelegates.pdb
+C:\Users\Suyog\Desktop\DotNet\Level 1\SortingListsUsingComparisonDelegates\obj\Debug\netcoreapp3.1\SortingListsUsingComparisonDelegates.csprojAssemblyReference.cache
+C:\Users\Suyog\Desktop\DotNet\Level 1\SortingListsUsingComparisonDelegates\obj\Debug\netcoreapp3.1\SortingListsUsingComparisonDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Suyog\Desktop\DotNet\Level 1\SortingListsUsingComparisonDelegates\obj\Debug\netcoreapp3.1\SortingListsUsingComparisonDelegates.AssemblyInfoInputs.cache
+C:\Users\Suyog\Desktop\DotNet\Level 1\SortingListsUsingComparisonDelegates\obj\Debug\netcoreapp3.1\SortingListsUsingComparisonDelegates.AssemblyInfo.cs
+C:\Users\Suyog\Desktop\DotNet\Level 1\SortingListsUsingComparisonDelegates\obj\Debug\netcoreapp3.1\SortingListsUsingComparisonDelegates.dll
+C:\Users\Suyog\Desktop\DotNet\Level 1\SortingListsUsingComparisonDelegates\obj\Debug\netcoreapp3.1\SortingListsUsingComparisonDelegates.pdb
+C:\Users\Suyog\Desktop\DotNet\Level 1\SortingListsUsingComparisonDelegates\obj\Debug\netcoreapp3.1\SortingListsUsingComparisonDelegates.genruntimeconfig.cache
