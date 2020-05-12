@@ -1,0 +1,13 @@
+C:\Users\Suyog\Desktop\DotNet\Level 1\ThreadStartDelegate\bin\Debug\netcoreapp3.1\ThreadStartDelegate.exe
+C:\Users\Suyog\Desktop\DotNet\Level 1\ThreadStartDelegate\bin\Debug\netcoreapp3.1\ThreadStartDelegate.deps.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\ThreadStartDelegate\bin\Debug\netcoreapp3.1\ThreadStartDelegate.runtimeconfig.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\ThreadStartDelegate\bin\Debug\netcoreapp3.1\ThreadStartDelegate.runtimeconfig.dev.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\ThreadStartDelegate\bin\Debug\netcoreapp3.1\ThreadStartDelegate.dll
+C:\Users\Suyog\Desktop\DotNet\Level 1\ThreadStartDelegate\bin\Debug\netcoreapp3.1\ThreadStartDelegate.pdb
+C:\Users\Suyog\Desktop\DotNet\Level 1\ThreadStartDelegate\obj\Debug\netcoreapp3.1\ThreadStartDelegate.csprojAssemblyReference.cache
+C:\Users\Suyog\Desktop\DotNet\Level 1\ThreadStartDelegate\obj\Debug\netcoreapp3.1\ThreadStartDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Suyog\Desktop\DotNet\Level 1\ThreadStartDelegate\obj\Debug\netcoreapp3.1\ThreadStartDelegate.AssemblyInfoInputs.cache
+C:\Users\Suyog\Desktop\DotNet\Level 1\ThreadStartDelegate\obj\Debug\netcoreapp3.1\ThreadStartDelegate.AssemblyInfo.cs
+C:\Users\Suyog\Desktop\DotNet\Level 1\ThreadStartDelegate\obj\Debug\netcoreapp3.1\ThreadStartDelegate.dll
+C:\Users\Suyog\Desktop\DotNet\Level 1\ThreadStartDelegate\obj\Debug\netcoreapp3.1\ThreadStartDelegate.pdb
+C:\Users\Suyog\Desktop\DotNet\Level 1\ThreadStartDelegate\obj\Debug\netcoreapp3.1\ThreadStartDelegate.genruntimeconfig.cache

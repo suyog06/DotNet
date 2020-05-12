@@ -1,0 +1,12 @@
+C:\Users\Suyog\Desktop\DotNet\Level 1\ParameterizedThreadStartDelegate\bin\Debug\netcoreapp3.1\ParameterizedThreadStartDelegate.exe
+C:\Users\Suyog\Desktop\DotNet\Level 1\ParameterizedThreadStartDelegate\bin\Debug\netcoreapp3.1\ParameterizedThreadStartDelegate.deps.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\ParameterizedThreadStartDelegate\bin\Debug\netcoreapp3.1\ParameterizedThreadStartDelegate.runtimeconfig.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\ParameterizedThreadStartDelegate\bin\Debug\netcoreapp3.1\ParameterizedThreadStartDelegate.runtimeconfig.dev.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\ParameterizedThreadStartDelegate\bin\Debug\netcoreapp3.1\ParameterizedThreadStartDelegate.dll
+C:\Users\Suyog\Desktop\DotNet\Level 1\ParameterizedThreadStartDelegate\bin\Debug\netcoreapp3.1\ParameterizedThreadStartDelegate.pdb
+C:\Users\Suyog\Desktop\DotNet\Level 1\ParameterizedThreadStartDelegate\obj\Debug\netcoreapp3.1\ParameterizedThreadStartDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Suyog\Desktop\DotNet\Level 1\ParameterizedThreadStartDelegate\obj\Debug\netcoreapp3.1\ParameterizedThreadStartDelegate.AssemblyInfoInputs.cache
+C:\Users\Suyog\Desktop\DotNet\Level 1\ParameterizedThreadStartDelegate\obj\Debug\netcoreapp3.1\ParameterizedThreadStartDelegate.AssemblyInfo.cs
+C:\Users\Suyog\Desktop\DotNet\Level 1\ParameterizedThreadStartDelegate\obj\Debug\netcoreapp3.1\ParameterizedThreadStartDelegate.dll
+C:\Users\Suyog\Desktop\DotNet\Level 1\ParameterizedThreadStartDelegate\obj\Debug\netcoreapp3.1\ParameterizedThreadStartDelegate.pdb
+C:\Users\Suyog\Desktop\DotNet\Level 1\ParameterizedThreadStartDelegate\obj\Debug\netcoreapp3.1\ParameterizedThreadStartDelegate.genruntimeconfig.cache

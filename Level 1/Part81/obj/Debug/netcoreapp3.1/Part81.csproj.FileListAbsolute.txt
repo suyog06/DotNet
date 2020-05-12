@@ -1,0 +1,13 @@
+C:\Users\Suyog\Desktop\DotNet\Level 1\Part81\bin\Debug\netcoreapp3.1\Part81.exe
+C:\Users\Suyog\Desktop\DotNet\Level 1\Part81\bin\Debug\netcoreapp3.1\Part81.deps.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\Part81\bin\Debug\netcoreapp3.1\Part81.runtimeconfig.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\Part81\bin\Debug\netcoreapp3.1\Part81.runtimeconfig.dev.json
+C:\Users\Suyog\Desktop\DotNet\Level 1\Part81\bin\Debug\netcoreapp3.1\Part81.dll
+C:\Users\Suyog\Desktop\DotNet\Level 1\Part81\bin\Debug\netcoreapp3.1\Part81.pdb
+C:\Users\Suyog\Desktop\DotNet\Level 1\Part81\obj\Debug\netcoreapp3.1\Part81.csprojAssemblyReference.cache
+C:\Users\Suyog\Desktop\DotNet\Level 1\Part81\obj\Debug\netcoreapp3.1\Part81.csproj.CoreCompileInputs.cache
+C:\Users\Suyog\Desktop\DotNet\Level 1\Part81\obj\Debug\netcoreapp3.1\Part81.AssemblyInfoInputs.cache
+C:\Users\Suyog\Desktop\DotNet\Level 1\Part81\obj\Debug\netcoreapp3.1\Part81.AssemblyInfo.cs
+C:\Users\Suyog\Desktop\DotNet\Level 1\Part81\obj\Debug\netcoreapp3.1\Part81.dll
+C:\Users\Suyog\Desktop\DotNet\Level 1\Part81\obj\Debug\netcoreapp3.1\Part81.pdb
+C:\Users\Suyog\Desktop\DotNet\Level 1\Part81\obj\Debug\netcoreapp3.1\Part81.genruntimeconfig.cache
